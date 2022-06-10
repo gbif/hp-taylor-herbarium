@@ -17,22 +17,22 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=5386
         isPrimary: true
       features: 
-      - title: <em>Kanakia salesnii</em> Delorme, 2016
+      - title: <em>Amorpha canescens</em> Pursh
+        description: The Leadplant
+        background: /assets/images/Amorpha_iNat_891174182.jpg 
+        href: /occurrence/search?entity=3454984161
+      - title: <em>Astragalus shortianus</em> Nutt
+        description: Astragalus shortianus Nutt.
+        background: /assets/images/Amorpha_iNat_891174182.jpg
+        href: /occurrence/search?entity=3454987708
+      - title: <em>Psoralea argophylla</em> Pursh.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-1.jpg 
-        href: /occurrence/search?entity=1265025121
-      - title: <em>Orientopsaltria cantavis</em> Boulard, 2003
+        background: /assets/images/Amorpha_iNat_891174182.jpg
+        href: /occurrence/search?entity=3454987456
+      - title: <em>Trifolium pratense</em>  L.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-2.jpg
-        href: /occurrence/search?entity=1019734979
-      - title: <em>Kanakia rana</em> Delorme, 2016
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-3.jpg
-        href: /occurrence/search?entity=1265025119
-      - title: <em>Chremistica elenae</em> subsp. <em>seychellensis</em> Boulard, 2001
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-4.jpg
-        href: /occurrence/search?entity=1019738134
+        background: /assets/images/Amorpha_iNat_891174182.jpg
+        href: /occurrence/search?entity=3454986873
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
