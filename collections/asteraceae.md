@@ -9,29 +9,29 @@ composition:
   - type: pageMarkdown
   - type: features
     inlineData:
-      title: Selected specimens
+      title: Selected Asteraceae specimens
       description: |
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
-      - text: View all specimens in the Cnidaria collection
+      - text: View all specimens in the Asteraceae collection
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=43
         isPrimary: true
       features: 
-      - title: <em>Staurodiscus luteus</em> Peter, 2021
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni4-1.jpg
+      - title: <em>Echinacea angustifolia</em> DC.
+        description: 
+        background: /assets/images/Echinecea_2844424650.jpeg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571124604
-      - title: <em>Octophialucium irregularis</em> Peter, 2021
+      - title: <em>Echinacea angustifolia</em> DC.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni3-2jpg.jpg
+        background: /assets/images/Echinecea_2844424650.jpeg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571118608
-      - title: Actiniaria
+      - title: <em>Echinacea angustifolia</em> DC.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni2-3.jpg
+        background: /assets/images/Echinecea_2844424650.jpeg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2651560305
-      - title: <em>Zygocanna apapillatus</em> Xu, Huang & Guo, 2014
+      - title: <em>Echinacea angustifolia</em> DC.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni1-4.jpg
+        background: /assets/images/Echinecea_2844424650.jpeg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571117605
 ---
 
