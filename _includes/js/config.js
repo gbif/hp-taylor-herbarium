@@ -9,14 +9,14 @@ var siteConfig = {
   occurrence: {
     rootPredicate: {
       "type": "equals",
-      "key": "datasetKey",
-      "value": "7e380070-f762-11e1-a439-00145eb45e9a"
+      "key": "publishingOrg",
+      "value": "14cb4225-a2b5-47b8-849e-eb86ed93e548"
     },
     highlightedFilters: ['taxonKey', 'occurrenceStatus', 'year', 'occurrenceIssue'],
     mapSettings: {
-      zoom: 10.290782035199692,
-      lng: 4.378666162934309,
-      lat: 50.83439252440547
+      zoom: 0,
+      lng: 0,
+      lat: 0
     }
   }
 };
