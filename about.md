@@ -8,11 +8,8 @@ background: /assets/images/A![Ceratodun_3067683862](https://user-images.githubus
 imageLicense: |
   [*Calcinus tubularis* (Linnaeus, 1767)](/occurrence/search?entity=2579975003) Collected in France by Corbari L. licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 ---
-[*Ceratodon purpureus C.Müller, 1885 ]
-observed in United States of America
- by Colin Schindler (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
- 
- 
+
+  
 The C. A. Taylor Herbarium at South Dakota State University holds more than 60,000 vouchered plant specimens of around 2,500 species, with a focus on the flora of the Northern Great Plains. The mission of the Taylor Herbarium at South Dakota State University is to document the flora of South Dakota and Northern Great Plains through the collection, preservation, digitization, and exhibition of botanical specimens, and to support and advance botanical education, research, extension, and outreach opportunities. The Taylor Herbarium at South Dakota State University will advance the goals of Impact 2018, the Strategic Vision of the University, through becoming an externally funded resource for biodiversity research and education, fostering a climate of inclusion and acceptance, and supporting the land grant mission through partnerships with SDSU Extension and facilitation of outreach events. 
 
 ## Veniam
