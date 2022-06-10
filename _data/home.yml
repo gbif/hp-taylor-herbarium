@@ -7,19 +7,19 @@ collectionsPreview:
     href: /collections
     isPrimary: true
   features: 
- - title: Fabaceae
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: /assets/images/amorpha_canescens.jpeg
-  href: /collections/fabaceae
-- title: Asteraceae
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/Echinecea_2844424650.jpeg
-  href: /collections/asteraceae
+  - title: Fabaceae
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: /assets/images/amorpha_canescens.jpeg
+    href: /collections/fabaceae
+  - title: Asteraceae
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: assets/images/Echinecea_2844424650.jpeg
+    href: /collections/asteraceae
   
   
   
   
- # - title: Scorpions
+# - title: Scorpions
 #    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
 #    background: assets/images/5sco-hor.jpg
 #    href: /collections/scorpiones
