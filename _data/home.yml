@@ -39,7 +39,7 @@ polarBear:
   description: |      # required
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, lacus dignissim egestas venenatis, augue nisl consequat ante, eget rutrum ex erat in sapien. Aliquam elementum massa ac lacinia vulputate. Cras sagittis nisi vel sem tincidunt, id pharetra velit ultrices. Quisque lobortis accumsan auctor. Praesent ac neque id tortor accumsan vestibulum. Etiam vitae orci accumsan massa semper fermentum a at leo. Donec ut quam facilisis, blandit odio quis, aliquam felis.
   # img required
-  background: assets/images/amorpha_canescens.jpe
+  background: assets/images/amorpha_canescens.jpeg
   imageLicense: |
     [*Camponotus maritimusvia*](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3311896307) Collected in United States of America, Phil Ward. Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
   cta:
