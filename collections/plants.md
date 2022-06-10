@@ -1,7 +1,7 @@
 ---
 title: Plants
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/pla-4.jpg
+background: /assets/images/amorpha_canescens.jpeg
 imageLicense: |
   [*Eulepidotis poirieri* Barbut & Lalanne-Cassou, 2014](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=1020747701) Collected in French Guiana, Marion DEPRAETERE licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
