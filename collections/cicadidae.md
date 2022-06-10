@@ -1,7 +1,7 @@
 ---
 title: Fabaceae
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/Amorpha_iNat_891174182.jpg
+background: /assets/images/Amorpha_iNat_891174182.png
 imageLicense: |
   [*Amorpha canescens* Pursh](https://www.gbif.org/occurrence/891174182) Observed in South Dakota by Scott Loarie licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
@@ -19,19 +19,19 @@ composition:
       features: 
       - title: <em>Amorpha canescens</em> Pursh
         description: The Leadplant
-        background: /assets/images/Amorpha_iNat_891174182.jpg 
+        background: /assets/images/Amorpha_iNat_891174182.png 
         href: /occurrence/search?entity=3454984161
       - title: <em>Astragalus shortianus</em> Nutt
         description: Astragalus shortianus Nutt.
-        background: /assets/images/Amorpha_iNat_891174182.jpg
+        background: /assets/images/Amorpha_iNat_891174182.png
         href: /occurrence/search?entity=3454987708
       - title: <em>Psoralea argophylla</em> Pursh.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/Amorpha_iNat_891174182.jpg
+        background: /assets/images/Amorpha_iNat_891174182.png
         href: /occurrence/search?entity=3454987456
       - title: <em>Trifolium pratense</em>  L.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/Amorpha_iNat_891174182.jpg
+        background: /assets/images/Amorpha_iNat_891174182.png
         href: /occurrence/search?entity=3454986873
 ---
 
