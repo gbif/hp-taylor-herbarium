@@ -3,7 +3,7 @@ title: About
 klass: about
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/Ceratodun_3067683862.png
+background: /assets/images/Ceratodun_3067683862.jpg
 
 imageLicense: |
   [*Ceratodon purpureus* C.Müller, 1885]observed in United States of America by Colin Schindler Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0)
@@ -17,7 +17,7 @@ The C. A. Taylor Herbarium at South Dakota State University holds more than 60,0
 [Learn more here](https://www.sdstate.edu/herbarium#)
 
 ## SEINET Northern Great Plains Regional Herbarium Network
-The C. A. Taylor Herbarium at South Dakota State University is part of [SEINET](https://ngpherbaria.org/portal/)
+The C. A. Taylor Herbarium at South Dakota State University is part of [SEINET](https://ngpherbaria.org/portal/).
 
 ## Nonummy nibh
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
