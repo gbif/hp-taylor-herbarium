@@ -2,8 +2,7 @@
 lang-ref: home
 layout: home
 description: |
-  The C.A.Taylor Herbarium at SDSU documents the flora of South Dakota and the NorthernGreat Plains. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=821cc27a-e3bb-4bc5-ac34-89ada245069d&limit=0">1,883</span> 
-  The herbaium contains  >60,000 vouchered plant specimens of 2,500 plant species of which 14,500 are databased.
+  The C.A.Taylor Herbarium at SDSU documents the flora of South Dakota and the Northern Great Plains. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=821cc27a-e3bb-4bc5-ac34-89ada245069d&limit=0">1,883</span> The herbaium contains  >60,000 vouchered plant specimens of 2,500 plant species of which 14,500 are databased.
 background: /assets/images/Echinecea_2844424650.jpeg
 imageLicense: |
   [*Octophialucium irregularis* Peter, 2021](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571118608) Collected in United States of America, Florida Museum of Natural History Invertebrate Zoology. Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
