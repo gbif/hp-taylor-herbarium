@@ -14,7 +14,7 @@ composition:
           these are just random photos and GBIF occurrence i grabbed and they do not match but should 
       cta:
       - text: View all specimens in the bryophyte collection
-        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=175101509
+        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=35
         isPrimary: true
       features: 
       - title: <em>Muricopsis linealbus</em> Garrigues & Lamy, 2019
