@@ -14,25 +14,25 @@ composition:
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
       - text: View all specimens in the Asteraceae collection
-        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=43
+        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=3065
         isPrimary: true
       features: 
       - title: <em>Echinacea angustifolia</em> DC.
         description: 
         background: /assets/images/Echinecea_2844424650.jpeg
-        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571124604
+        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3454993085
       - title: <em>Echinacea angustifolia</em> DC.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/Echinecea_2844424650.jpeg
-        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571118608
+        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3454993085
       - title: <em>Echinacea angustifolia</em> DC.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/Echinecea_2844424650.jpeg
-        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2651560305
+        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3454993085
       - title: <em>Echinacea angustifolia</em> DC.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/Echinecea_2844424650.jpeg
-        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571117605
+        href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3454993085
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
