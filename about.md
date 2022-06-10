@@ -3,7 +3,8 @@ title: About
 klass: about
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/Ceratodun_3067683862.jpg
+background: /assets/images/Ceratodun_3067683862.jpeg![image](https://user-images.githubusercontent.com/13423309/173079766-84bfa838-c9d2-42a0-99bb-f7406ac56b3d.png)
+
 
 imageLicense: |
   [*Ceratodon purpureus* C.Müller, 1885]observed in United States of America by Colin Schindler Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0)
