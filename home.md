@@ -13,7 +13,7 @@ cta:
   - text: Specimens
     href: /occurrence/search
     isPrimary: true
-  - text: Collection Highlights
+  - text: Herbarium Highlights
     href: /collections
 permalink: /
 klass: home
