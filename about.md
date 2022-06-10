@@ -3,10 +3,12 @@ title: About
 klass: about
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/A![Ceratodun_3067683862](https://user-images.githubusercontent.com/13423309/173075576-bf0aa4ab-ee74-4205-b630-2baceb81330d.jpeg)
+background: /assets/images/Ceratodun_3067683862
 
 imageLicense: |
-  [*Calcinus tubularis* (Linnaeus, 1767)](/occurrence/search?entity=2579975003) Collected in France by Corbari L. licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+  [*Ceratodon purpureus* C.Müller, 1885]observed in United States of America by Colin Schindler Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0)
+
+
 ---
 
   
