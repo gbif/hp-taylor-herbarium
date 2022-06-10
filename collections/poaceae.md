@@ -13,7 +13,7 @@ composition:
       description: |
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
-      - text: View all specimens in the plants collection
+      - text: View all specimens in the Poaceae collection
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=3073
         isPrimary: true
       features: 
