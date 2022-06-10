@@ -5,11 +5,11 @@ description: |
 features: 
 - title: Fabaceae
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: /assets/images/5sco-hor.jpg
+  background: /assets/images/amorpha_canescens.jpeg
   href: /collections/fabaceae
 - title: Asteraceae
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/cni3-2jpg.jpg
+  background: assets/images/Echinecea_2844424650.jpeg
   href: /collections/asteraceae
 - title: Bryophytes
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
@@ -17,7 +17,7 @@ features:
   href: /collections/mollusca
 - title: Plants
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/pla-4.jpg
+  background: assets/images/Hesperostipa_2814166752.jpg
   href: /collections/plants
 - title: Cicada
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
