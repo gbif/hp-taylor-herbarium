@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ACME Museum # the title of your site should go here
+title: C.A. Taylor Herbarium # the title of your site should go here
 email: info@gbif.org
 description: >- # this means to ignore newlines (until baseurl:)
   GB29 meeting site
@@ -52,14 +52,14 @@ algae:
   hideHelper: true                # set to false or delete line  to show feedback during development
   rootLang: en
   latestPostLimit: 3
-  logo: /assets/images/logoACME-light-07.svg  # Logo in navbar, will be displayed with 28px height
+  # logo: /assets/images/logoACME-light-07.svg  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true              # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#f58964"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "#203b56"          # What color should links have. Use a HEX code. DEfault is primary color. 
+      primary: "#fed106"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#0033A0"          # What color should links have. Use a HEX code. DEfault is primary color. 
       coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: "#0f3352"     # Define a custom background for the logo/title in the top navigation bar
