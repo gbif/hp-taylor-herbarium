@@ -11,15 +11,19 @@ features:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: assets/images/cni3-2jpg.jpg
   href: /collections/asteraceae
-- title: Mollusks
+- title: Bryophytes
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/mol-4.jpg
+  background: assets/images/Ceratodun_3067683862.jpeg
   href: /collections/mollusca
 - title: Cicada
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: assets/images/cic-3.jpg
   href: /collections/cicadidae
-- title: Echinoderms
+- title: Plants
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: assets/images/pla-4.jpg
+  href: /collections/plants
+ - title: Echinoderms
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: assets/images/star-1.jpg
   href: /collections/echinodermata
@@ -35,7 +39,4 @@ features:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: assets/images/col-2.jpg
   href: /collections/coleoptera
-- title: Plants
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/pla-4.jpg
-  href: /collections/plants
+
