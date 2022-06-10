@@ -1,20 +1,20 @@
 ---
-title: Cicada
+title: Fabaceae
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/cic-3.jpg
+background: /assets/images/Amorpha_iNat_891174182.jpg
 imageLicense: |
-  [*Kanakia rana* Delorme, 2016](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=1265025119) Collected in New Caledonia by Fauvre Laurent licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*Amorpha canescens* Pursh](https://www.gbif.org/occurrence/891174182) Observed in South Dakota by Scott Loarie licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown
   - type: features
     inlineData:
-      title: Selected specimens
+      title: Selected legume specimens
       description: |
-          Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+          Here are some selected iNat images of legumes in South Dakota, of course you could add collection images here 
       cta:
-      - text: View all specimens in the cicadidae collection
-        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=50
+      - text: View all specimens in the legume collection
+        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=5386
         isPrimary: true
       features: 
       - title: <em>Kanakia salesnii</em> Delorme, 2016
