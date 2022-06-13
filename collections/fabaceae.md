@@ -14,7 +14,7 @@ composition:
           Here are some selected iNat images of legumes in South Dakota, of course you could add collection images here 
       cta:
       - text: View all specimens in the legume collection
-        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=5386
+        href: /occurrence/search?basis_of record=PRESERVED_SPECIMEN&taxonKey=5386
         isPrimary: true
       features: 
       - title: <em>Amorpha canescens</em> Pursh
