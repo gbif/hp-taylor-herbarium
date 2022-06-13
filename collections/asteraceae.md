@@ -14,7 +14,7 @@ composition:
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
       - text: View all specimens in the Asteraceae collection
-        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=3065
+        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=3065
         isPrimary: true
       features: 
       - title: <em>Echinacea angustifolia</em> DC.
