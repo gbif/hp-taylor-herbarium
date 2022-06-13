@@ -22,7 +22,8 @@ var siteConfig = {
       zoom: 0,
       lng: 0,
       lat: 0
-    }
+    },
+    occurrenceSearchTabs: ['TABLE', 'MAP'], // possible values are TABLE, MAP, GALLERY, DATASETS
   },
   literature: {
     rootFilter: {
