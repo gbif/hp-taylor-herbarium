@@ -14,7 +14,7 @@ composition:
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
       - text: View all specimens in the Poaceae collection
-        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=3073
+        href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=3073
         isPrimary: true
       features: 
       - title: <em>Dipterocarpus alatus</em> Roxb. ex G.Don
