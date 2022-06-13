@@ -17,7 +17,7 @@ var siteConfig = {
       "key": "publishingOrg",
       "value": "14cb4225-a2b5-47b8-849e-eb86ed93e548"
     },
-    highlightedFilters: ['taxonKey', 'occurrenceStatus', 'year', 'occurrenceIssue'],
+    highlightedFilters: ['taxonKey', 'recordedBy', 'year', 'catalogNumber', 'stateProvince'],
     mapSettings: {
       zoom: 0,
       lng: 0,
