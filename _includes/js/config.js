@@ -24,6 +24,7 @@ var siteConfig = {
       lat: 0
     },
     occurrenceSearchTabs: ['TABLE', 'MAP'], // possible values are TABLE, MAP, GALLERY, DATASETS
+    excludedFilters: ['datasetKey', 'publisherKey']
   },
   literature: {
     rootFilter: {
