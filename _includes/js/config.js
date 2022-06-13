@@ -23,7 +23,7 @@ var siteConfig = {
       lng: 0,
       lat: 0
     },
-    occurrenceSearchTabs: ['TABLE', 'MAP'], // possible values are TABLE, MAP, GALLERY, DATASETS
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY'], // possible values are TABLE, MAP, GALLERY, DATASETS
     excludedFilters: ['datasetKey', 
                       'publisherKey', 
                       'collectionCode', 
